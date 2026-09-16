@@ -1,0 +1,488 @@
+{
+  "singlescale": {
+    "cathedral": {
+      "l2": {
+        "g_offset": [
+          5,
+          2
+        ],
+        "r_offset": [
+          12,
+          3
+        ],
+        "seconds": 0.09
+      },
+      "ncc": {
+        "g_offset": [
+          5,
+          2
+        ],
+        "r_offset": [
+          12,
+          3
+        ],
+        "seconds": 0.15
+      }
+    },
+    "monastery": {
+      "l2": {
+        "g_offset": [
+          -3,
+          2
+        ],
+        "r_offset": [
+          3,
+          2
+        ],
+        "seconds": 0.09
+      },
+      "ncc": {
+        "g_offset": [
+          -3,
+          2
+        ],
+        "r_offset": [
+          3,
+          2
+        ],
+        "seconds": 0.15
+      }
+    },
+    "tobolsk": {
+      "l2": {
+        "g_offset": [
+          3,
+          3
+        ],
+        "r_offset": [
+          6,
+          3
+        ],
+        "seconds": 0.09
+      },
+      "ncc": {
+        "g_offset": [
+          3,
+          3
+        ],
+        "r_offset": [
+          6,
+          3
+        ],
+        "seconds": 0.15
+      }
+    }
+  },
+  "pyramid": {
+    "church": {
+      "l2": {
+        "g_offset": [
+          25,
+          4
+        ],
+        "r_offset": [
+          64,
+          267
+        ],
+        "seconds": 0.34
+      },
+      "ncc": {
+        "g_offset": [
+          25,
+          4
+        ],
+        "r_offset": [
+          58,
+          -4
+        ],
+        "seconds": 0.59
+      }
+    },
+    "emir": {
+      "l2": {
+        "g_offset": [
+          49,
+          24
+        ],
+        "r_offset": [
+          103,
+          57
+        ],
+        "seconds": 0.37
+      },
+      "ncc": {
+        "g_offset": [
+          49,
+          24
+        ],
+        "r_offset": [
+          141,
+          -205
+        ],
+        "seconds": 0.61
+      }
+    },
+    "harvesters": {
+      "l2": {
+        "g_offset": [
+          59,
+          16
+        ],
+        "r_offset": [
+          124,
+          13
+        ],
+        "seconds": 0.36
+      },
+      "ncc": {
+        "g_offset": [
+          60,
+          17
+        ],
+        "r_offset": [
+          124,
+          13
+        ],
+        "seconds": 0.61
+      }
+    },
+    "icon": {
+      "l2": {
+        "g_offset": [
+          41,
+          17
+        ],
+        "r_offset": [
+          90,
+          23
+        ],
+        "seconds": 0.39
+      },
+      "ncc": {
+        "g_offset": [
+          41,
+          17
+        ],
+        "r_offset": [
+          89,
+          23
+        ],
+        "seconds": 0.66
+      }
+    },
+    "ilemselga": {
+      "l2": {
+        "g_offset": [
+          39,
+          7
+        ],
+        "r_offset": [
+          130,
+          11
+        ],
+        "seconds": 0.41
+      },
+      "ncc": {
+        "g_offset": [
+          40,
+          7
+        ],
+        "r_offset": [
+          130,
+          11
+        ],
+        "seconds": 0.61
+      }
+    },
+    "melons": {
+      "l2": {
+        "g_offset": [
+          82,
+          11
+        ],
+        "r_offset": [
+          178,
+          13
+        ],
+        "seconds": 0.36
+      },
+      "ncc": {
+        "g_offset": [
+          82,
+          11
+        ],
+        "r_offset": [
+          178,
+          13
+        ],
+        "seconds": 0.63
+      }
+    },
+    "religous_painting": {
+      "l2": {
+        "g_offset": [
+          28,
+          3
+        ],
+        "r_offset": [
+          68,
+          7
+        ],
+        "seconds": 0.38
+      },
+      "ncc": {
+        "g_offset": [
+          28,
+          3
+        ],
+        "r_offset": [
+          68,
+          7
+        ],
+        "seconds": 0.61
+      }
+    },
+    "self_portrait": {
+      "l2": {
+        "g_offset": [
+          79,
+          29
+        ],
+        "r_offset": [
+          176,
+          37
+        ],
+        "seconds": 0.36
+      },
+      "ncc": {
+        "g_offset": [
+          79,
+          29
+        ],
+        "r_offset": [
+          176,
+          37
+        ],
+        "seconds": 0.63
+      }
+    },
+    "siren": {
+      "l2": {
+        "g_offset": [
+          49,
+          -6
+        ],
+        "r_offset": [
+          96,
+          -25
+        ],
+        "seconds": 0.54
+      },
+      "ncc": {
+        "g_offset": [
+          49,
+          -6
+        ],
+        "r_offset": [
+          96,
+          -25
+        ],
+        "seconds": 0.83
+      }
+    },
+    "three_generations": {
+      "l2": {
+        "g_offset": [
+          53,
+          14
+        ],
+        "r_offset": [
+          112,
+          11
+        ],
+        "seconds": 0.36
+      },
+      "ncc": {
+        "g_offset": [
+          53,
+          14
+        ],
+        "r_offset": [
+          112,
+          11
+        ],
+        "seconds": 0.6
+      }
+    },
+    "wharf": {
+      "l2": {
+        "g_offset": [
+          15,
+          -7
+        ],
+        "r_offset": [
+          83,
+          -16
+        ],
+        "seconds": 0.37
+      },
+      "ncc": {
+        "g_offset": [
+          15,
+          -7
+        ],
+        "r_offset": [
+          83,
+          -16
+        ],
+        "seconds": 0.64
+      }
+    },
+    "cathedral": {
+      "l2": {
+        "g_offset": [
+          5,
+          2
+        ],
+        "r_offset": [
+          12,
+          3
+        ],
+        "seconds": 0.1
+      },
+      "ncc": {
+        "g_offset": [
+          5,
+          2
+        ],
+        "r_offset": [
+          12,
+          3
+        ],
+        "seconds": 0.15
+      }
+    },
+    "monastery": {
+      "l2": {
+        "g_offset": [
+          -3,
+          2
+        ],
+        "r_offset": [
+          3,
+          2
+        ],
+        "seconds": 0.11
+      },
+      "ncc": {
+        "g_offset": [
+          -3,
+          2
+        ],
+        "r_offset": [
+          3,
+          2
+        ],
+        "seconds": 0.15
+      }
+    },
+    "tobolsk": {
+      "l2": {
+        "g_offset": [
+          3,
+          3
+        ],
+        "r_offset": [
+          6,
+          3
+        ],
+        "seconds": 0.1
+      },
+      "ncc": {
+        "g_offset": [
+          3,
+          3
+        ],
+        "r_offset": [
+          6,
+          3
+        ],
+        "seconds": 0.16
+      }
+    }
+  },
+  "own": {
+    "fortress": {
+      "l2": {
+        "g_offset": [
+          3,
+          0
+        ],
+        "r_offset": [
+          10,
+          0
+        ],
+        "seconds": 0.09
+      },
+      "ncc": {
+        "g_offset": [
+          3,
+          0
+        ],
+        "r_offset": [
+          10,
+          0
+        ],
+        "seconds": 0.15
+      }
+    },
+    "mosque": {
+      "l2": {
+        "g_offset": [
+          3,
+          1
+        ],
+        "r_offset": [
+          8,
+          1
+        ],
+        "seconds": 0.1
+      },
+      "ncc": {
+        "g_offset": [
+          3,
+          1
+        ],
+        "r_offset": [
+          8,
+          1
+        ],
+        "seconds": 0.15
+      }
+    },
+    "portrait": {
+      "l2": {
+        "g_offset": [
+          5,
+          1
+        ],
+        "r_offset": [
+          12,
+          1
+        ],
+        "seconds": 0.1
+      },
+      "ncc": {
+        "g_offset": [
+          5,
+          1
+        ],
+        "r_offset": [
+          12,
+          1
+        ],
+        "seconds": 0.15
+      }
+    }
+  }
+}
