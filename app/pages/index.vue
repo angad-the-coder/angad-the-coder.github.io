@@ -21,6 +21,11 @@ useHead({
           Project 1: Images of the Russian Empire
         </NuxtLink>
       </li>
+      <li>
+        <NuxtLink to="/proj2">
+          Project 2: Fun with Filters and Frequencies
+        </NuxtLink>
+      </li>
     </ul>
   </div>
 </template>

@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 nocommit/
+.DS_Store
 
 # Nuxt dev/build outputs
 .output

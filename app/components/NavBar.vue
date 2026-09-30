@@ -21,5 +21,12 @@
     >
       Project 1
     </NuxtLink>
+    <NuxtLink
+      to="/proj2"
+      class="text-brown-700 hover:text-brown-950"
+      active-class="text-brown-950 font-bold"
+    >
+      Project 2
+    </NuxtLink>
   </nav>
 </template>
