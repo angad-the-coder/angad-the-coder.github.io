@@ -26,6 +26,11 @@ useHead({
           Project 2: Fun with Filters and Frequencies
         </NuxtLink>
       </li>
+      <li>
+        <NuxtLink to="/proj3">
+          Project 3: Fun with Flow Models
+        </NuxtLink>
+      </li>
     </ul>
   </div>
 </template>

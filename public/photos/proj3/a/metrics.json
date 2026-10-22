@@ -1,0 +1,62 @@
+{
+  "group": "all",
+  "seed": 180,
+  "step_size": 0.02,
+  "cfg_w": 7,
+  "model": "MCG-NJU/PixNerd-XXL-P16-T2I",
+  "revision": "9fa8836b553976b88a3b27649ed1628499e02bf9",
+  "text_revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+  "gpu": "Tesla T4",
+  "visible_devices": null,
+  "torch": "2.11.0+cu130",
+  "own_image_path": "/content/my_image_1.jpg",
+  "blur_sigma": {
+    "0.25": 8.0,
+    "0.5": 4.0,
+    "0.75": 1.0
+  },
+  "velocity_signed_limit": 4.038400650024414,
+  "velocity_error_range": [
+    0.0,
+    1.6577202081680298
+  ],
+  "velocity_rms_error": {
+    "0.25": 0.15523825585842133,
+    "0.50": 0.1046491414308548,
+    "0.75": 0.06570112705230713
+  },
+  "reconstruction_mse": {
+    "blur": 0.03045058250427246,
+    "one_step": 0.010951442644000053,
+    "euler": 0.013177458196878433
+  },
+  "euler_checks": "50 full steps, 25 half steps, shortened final step passed",
+  "peak_memory_gib": 11.435226440429688,
+  "edit_prompts": {
+    "campanile": "a photo of a lighthouse on a rocky coast",
+    "my_image_1": "a photo of a gingerbread house",
+    "my_image_2": "a photo of a pepperoni pizza on a plate"
+  },
+  "anagram_pairs": [
+    [
+      "an oil painting of an old man",
+      "an oil painting of people around a campfire",
+      180
+    ],
+    [
+      "an oil painting of a dog",
+      "an oil painting of a snowy mountain village",
+      181
+    ]
+  ],
+  "hybrid_pairs": [
+    [
+      "a lithograph of a skull",
+      "a lithograph of a waterfall"
+    ],
+    [
+      "a lithograph of a lion's face",
+      "a lithograph of a pile of autumn leaves"
+    ]
+  ]
+}
