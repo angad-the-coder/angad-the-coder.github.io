@@ -31,6 +31,11 @@ useHead({
           Project 3: Fun with Flow Models
         </NuxtLink>
       </li>
+      <li>
+        <NuxtLink to="/proj4">
+          Project 4: [Auto]Stitching Photo Mosaics
+        </NuxtLink>
+      </li>
     </ul>
   </div>
 </template>

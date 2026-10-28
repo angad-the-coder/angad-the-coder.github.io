@@ -35,5 +35,12 @@
     >
       Project 3
     </NuxtLink>
+    <NuxtLink
+      to="/proj4"
+      class="text-brown-700 hover:text-brown-950"
+      active-class="text-brown-950 font-bold"
+    >
+      Project 4
+    </NuxtLink>
   </nav>
 </template>
